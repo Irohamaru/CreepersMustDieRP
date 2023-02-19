@@ -1,0 +1,94 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_icon/baby_runner.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "B"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_icon/charged_creeper.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "E"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_icon/creeper.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "C"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_icon/drowned.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "D"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_icon/hoglin.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "L"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_icon/husk.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "H"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_icon/ravager.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "R"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_icon/piglin.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "P"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_icon/skeleton.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "S"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:mob_icon/zombie.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "Z"
+      ]
+    }
+  ]
+}
