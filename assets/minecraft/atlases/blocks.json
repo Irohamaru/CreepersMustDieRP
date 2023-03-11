@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "trap",
+      "prefix": "trap/"
+    },
+    {
+      "type": "directory",
+      "source": "block",
+      "prefix": "trap/"
+    },
+    {
+      "type": "single",
+      "resource": "entity/iron_golem/iron_golem"
+    }
+  ]
+}
