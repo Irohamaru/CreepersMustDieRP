@@ -35,16 +35,6 @@
 			}
 		}
 	],
-	"display": {
-		"head": {
-			"translation": [0, -11, 0],
-			"scale": [3.42, 4, 3.42]
-		},
-    "gui": {
-			"rotation": [45, 45, 0],
-			"translation": [0, 4.75, 0]
-		}
-	},
 	"groups": [
 		0,
 		1,

@@ -372,12 +372,12 @@
 		}
 	],
 	"display": {
+		"firstperson_righthand": {
+			"translation": [0, 1, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
 		"gui": {
 			"rotation": [0, -90, 0]
-		},
-		"head": {
-			"translation": [0, -74, 0],
-			"scale": [3, 3, 3]
 		},
 		"fixed": {
 			"rotation": [0, -90, 0]
