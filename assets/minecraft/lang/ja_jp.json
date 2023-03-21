@@ -98,13 +98,20 @@
   "%1$s/%2$s Players Are Proposing to Retreat." : "%1$s/%2$sプレイヤーが撤退を申し出ました。",
   "Awaiting Other Players..." : "他プレイヤーの承認待ち...",
   "<RETREAT>" : "<撤退>",
-  "Stage %s is ongoing." : "ステージ%sが進行中です。",
+  "%1$s %2$s is ongoing." : "%1$s %2$sの防衛が進行中だ。",
+  "%1$s %2$s has started!" : "%1$s %2$sの防衛が始まった!",
   "<JOIN>" : "<参加>",
 
   "---System---" : "---System---",
   "Status" : "ステータス",
   "Emerald" : "エメラルド",
   "Crystal" : "クリスタル",
+
+  "---Message---" : "---Message---",
+  "I'm Ready!" : "準備OK!",
+  "Wait a Minute!" : "ちょっと待って!",
+  "Nice!" : "ナイス!",
+  "Come On!" : "カモン!",
 
   "---Lobby---" : "---Lobby---",
   "Defense Captain Zachariah" : "防衛部隊長 ザカライア",
