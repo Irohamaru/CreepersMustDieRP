@@ -11,6 +11,7 @@
         { "predicate": {"custom_model_data": 5}, "model": "item/lime_candle"},
         { "predicate": {"custom_model_data": 6}, "model": "item/red_candle"},
         { "predicate": {"custom_model_data": 7}, "model": "item/orange_candle"},
-        { "predicate": {"custom_model_data": 8}, "model": "item/light_blue_candle"}
+        { "predicate": {"custom_model_data": 8}, "model": "item/light_blue_candle"},
+        { "predicate": {"custom_model_data": 9}, "model": "item/amethyst_cluster"}
     ]
 }
