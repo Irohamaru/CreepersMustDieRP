@@ -34,6 +34,8 @@
         { "predicate": {"custom_model_data": 121}, "model": "trap/void_wall/inactive"},
         { "predicate": {"custom_model_data": 130}, "model": "block/tnt"},
         { "predicate": {"custom_model_data": 140}, "model": "trap/tnt_dispenser"},
+        { "predicate": {"custom_model_data": 150}, "model": "trap/lightning_spire/placing"},
+        { "predicate": {"custom_model_data": 151}, "model": "trap/lightning_spire/active"},
         { "predicate": {"custom_model_data": 10000}, "model": "item/barrier"},
         { "predicate": {"custom_model_data": 100010}, "model": "trap/fireball"}
     ]
