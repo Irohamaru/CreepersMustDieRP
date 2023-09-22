@@ -36,6 +36,12 @@
         { "predicate": {"custom_model_data": 140}, "model": "trap/tnt_dispenser"},
         { "predicate": {"custom_model_data": 150}, "model": "trap/lightning_spire/placing"},
         { "predicate": {"custom_model_data": 151}, "model": "trap/lightning_spire/active"},
+        { "predicate": {"custom_model_data": 160}, "model": "trap/auto_ballista/joined"},
+        { "predicate": {"custom_model_data": 161}, "model": "trap/auto_ballista/base"},
+        { "predicate": {"custom_model_data": 162}, "model": "trap/auto_ballista/arms"},
+        { "predicate": {"custom_model_data": 163}, "model": "trap/auto_ballista/arrow"},
+        { "predicate": {"custom_model_data": 164}, "model": "trap/auto_ballista/table"},
+        { "predicate": {"custom_model_data": 165}, "model": "trap/auto_ballista/tray"},
         { "predicate": {"custom_model_data": 10000}, "model": "item/barrier"},
         { "predicate": {"custom_model_data": 100010}, "model": "trap/fireball"}
     ]
